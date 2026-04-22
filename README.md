@@ -253,16 +253,5 @@ print("Macro F1:", f1_score(Y_test, Y_pred, average='macro'))
 
 ## ✍️ Author
 
-**Ibrahim Zahid** — AI / ML Student
-(Use this name or replace with your details)
-
----
-
-## 📜 License
-
-Include a license (e.g., MIT) if you want others to reuse the code:
-
-```
-MIT License
-```
+**Ibrahim Zahid** 
 
